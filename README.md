@@ -60,7 +60,7 @@ what you would like to change.
 
 ## Contact
 
-If you have any questions or feedback, please reach out to me at reds.parrow98@example.com.
+If you have any questions or feedback, please reach out to me at prosicnatalija98@gmail.com.
 
 ---
 
