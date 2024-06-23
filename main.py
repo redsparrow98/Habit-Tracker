@@ -29,6 +29,8 @@ PIXELA_USERNAME = os.getenv("PIXELA_USERNAME")
 # ================= #
 
 """
+https://pixe.la/
+
 * To use pixela we must create a user on the API by setting up the user parameters:
     - token (special identifier almost like a password)
     - username (special identifier for the user)
@@ -165,7 +167,7 @@ formated_date = date.strftime("%Y%m%d")
 # Requiered parameters to create the pixel on the graph (date(yyyymmdd), quantity: Float [0-9].[0-9])
 pixel_conf = {
     "date": formated_date,
-    "quantity": "1",
+    "quantity": "3",
 }
 
 # # Post request for the pixel creation passing on the pixel_par to be saved on the graph
